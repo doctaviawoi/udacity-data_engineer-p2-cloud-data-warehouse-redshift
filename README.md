@@ -136,7 +136,7 @@ are shown below:
 
 ##### Entity Relationship Diagram (ERD)
 Entity Relationship Diagram (ERD) of this star schema is shown below.<br>
-![ER Diagram](./images/awsRedshift_sparkify_erd.png?style=centerme "ER Diagram")
+![ER Diagram](./images/awsRedshift_sparkify_erd.PNG "ER Diagram")
 
 
 <div id="etl"></div>
@@ -159,7 +159,7 @@ After song and event log datasets are loaded from S3 to staging tables (namely
 #### Summary information of the tables
 The summary information of the tables in `dev` database is as follow:
 
-![svv_table_info](./images/8_svv_table_info.png?style=centerme "Tables summary info")
+![svv_table_info](./images/8_svv_table_info.PNG "Tables summary info")
 
 
 <div id="example-queries"></div>
@@ -170,25 +170,25 @@ Below are screenshots of some of the SQL queries:<br>
 
 ***Songplays table***<br>  
 
-![Example queries 1](./images/3_songplays_lim5.png?style=centerme "Sample of songplays table")
+![Example queries 1](./images/3_songplays_lim5.PNG "Sample of songplays table")
 
 ***Artists table***<br>
-![Example queries 2](./images/0_artists_lim5.png?style=centerme "Sample of artists table")
+![Example queries 2](./images/0_artists_lim5.PNG "Sample of artists table")
 
 ***Songs table***<br>
-![Example queries 3](./images/1_songs_lim5.png?style=centerme "Sample of songs table")
+![Example queries 3](./images/1_songs_lim5.PNG "Sample of songs table")
 
 ***Users table***<br>
-![Example queries 4](./images/2_users_lim5.png?style=centerme "Sample of users table")
+![Example queries 4](./images/2_users_lim5.PNG "Sample of users table")
 
 ***Time table***<br>
-![Example queries 5](./images/4_time_lim5.png?style=centerme "Sample of time table")
+![Example queries 5](./images/4_time_lim5.PNG "Sample of time table")
 
 ***Top 10 most-listened-to artists in November 2018***<br>
-![Example queries 6](./images/5_most_listened_to_artists_in_Nov2018.png?style=centerme "Top 10 artists in November 2018")
+![Example queries 6](./images/5_most_listened_to_artists_in_Nov2018.PNG "Top 10 artists in November 2018")
 
 ***Top 10 most-listened-to songs in November 2018***<br>
-![Example queries 7](./images/6_most_listened_to_songs_in_Nov2018.png?style=centerme "Top 10 hit songs in November 2018")
+![Example queries 7](./images/6_most_listened_to_songs_in_Nov2018.PNG "Top 10 hit songs in November 2018")
 
 
 
