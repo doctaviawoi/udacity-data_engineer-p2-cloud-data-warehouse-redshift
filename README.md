@@ -136,7 +136,7 @@ are shown below:
 
 ##### Entity Relationship Diagram (ERD)
 Entity Relationship Diagram (ERD) of this star schema is shown below.<br>
-![ER Diagram](./images/awsRedshift_sparkify_erd.PNG "ER Diagram")
+![ER Diagram](./images/awsRedshift_sparkify_erd.png "ER Diagram")
 
 
 <div id="etl"></div>
